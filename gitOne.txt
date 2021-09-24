@@ -1,4 +1,6 @@
 This is for my practice session.
 This is for my second commit.
 This is for my next commit on master branch.
+This is for the first commit on another branch.
+This is for the second commit in my new branch.
 
